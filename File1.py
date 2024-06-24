@@ -2,7 +2,7 @@ from keras import models, layers, optimizers
 import keras._tf_keras
 import numpy as np
 import keras 
-keras._tf_keras.keras.preprocessing.sequence.TimeseriesGenerator
+
 # Sequence of integers from 1 to 100
 # Sequence of integers from 1 to 100
 data = np.array(range(1, 101))
